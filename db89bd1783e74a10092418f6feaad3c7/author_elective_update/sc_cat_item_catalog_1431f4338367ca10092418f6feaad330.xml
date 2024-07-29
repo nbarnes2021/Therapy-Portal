@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="New Client Inquiry Form">f7667b238363ca10092418f6feaad321</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-28 23:19:35</sys_created_on>
+        <sys_id>1431f4338367ca10092418f6feaad330</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.New Client Inquiry Form</sys_name>
+        <sys_package display_value="Therapy Portal" source="x_640401_therapy_0">db89bd1783e74a10092418f6feaad3c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_1431f4338367ca10092418f6feaad330</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-28 23:19:35</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</application>
+        <file_path/>
+        <instance_id>d85dad991b1ef55c39a54089bd4bcb25</instance_id>
+        <instance_name>dev202358</instance_name>
+        <name>sc_cat_item_catalog_1431f4338367ca10092418f6feaad330</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Client Inquiry Form">f7667b238363ca10092418f6feaad321</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-28 23:19:35</sys_created_on><sys_id>1431f4338367ca10092418f6feaad330</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.New Client Inquiry Form</sys_name><sys_package display_value="Therapy Portal" source="x_640401_therapy_0">db89bd1783e74a10092418f6feaad3c7</sys_package><sys_policy/><sys_scope display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</sys_scope><sys_update_name>sc_cat_item_catalog_1431f4338367ca10092418f6feaad330</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-28 23:19:35</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1238953787</payload_hash>
+        <record_name>Service Catalog.New Client Inquiry Form</record_name>
+        <reverted_from/>
+        <source>aab10e1b83e74a10092418f6feaad369</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-28 23:19:35</sys_created_on>
+        <sys_id>d031f4338367ca10092418f6feaad334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190fba46c0d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-28 23:19:35</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>5431f433a567ca10b4b35b42f4603633</update_guid>
+        <update_guid_history>5431f433a567ca10b4b35b42f4603633:-1238953787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.New Client Inquiry Form">fb3138338367ca10092418f6feaad346</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-28 23:19:49</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>7185314a822c418f931fcac50cd01e71</sys_id>
+        <sys_metadata>1431f4338367ca10092418f6feaad330</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.New Client Inquiry Form</sys_name>
+        <sys_package display_value="Therapy Portal" source="x_640401_therapy_0">db89bd1783e74a10092418f6feaad3c7</sys_package>
+        <sys_parent display_value="New Client Inquiry Form">f7667b238363ca10092418f6feaad321</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</sys_scope>
+        <sys_scope_delete display_value="">60673d374fee43b4996ba81f9dc05d91</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_1431f4338367ca10092418f6feaad330</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_1431f4338367ca10092418f6feaad330">d031f4338367ca10092418f6feaad334</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-28 23:19:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

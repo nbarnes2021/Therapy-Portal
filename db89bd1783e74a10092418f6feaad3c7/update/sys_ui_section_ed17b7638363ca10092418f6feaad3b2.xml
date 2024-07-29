@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Client Intake Form" section_id="ed17b7638363ca10092418f6feaad3b2" sys_domain="global" table="x_640401_therapy_0_client_inquiry" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6d17b7638363ca10092418f6feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_birth</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>2d17b7638363ca10092418f6feaad3b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6517b7638363ca10092418f6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6917b7638363ca10092418f6feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6117b7638363ca10092418f6feaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6517b7638363ca10092418f6feaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street_address</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6917b7638363ca10092418f6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6d17b7638363ca10092418f6feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>apartment</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6517b7638363ca10092418f6feaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6917b7638363ca10092418f6feaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6d17b7638363ca10092418f6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6117b7638363ca10092418f6feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip_code</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6917b7638363ca10092418f6feaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6d17b7638363ca10092418f6feaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6117b7638363ca10092418f6feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>home_phone</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6517b7638363ca10092418f6feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_phone</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6d17b7638363ca10092418f6feaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6117b7638363ca10092418f6feaad3b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cell_phone</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6517b7638363ca10092418f6feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_address</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_id>6917b7638363ca10092418f6feaad3b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Client Intake Form" display_value="Client Intake Form" name="x_640401_therapy_0_client_inquiry" sys_domain="global" view="Default view">ed17b7638363ca10092418f6feaad3b2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Client Intake Form</caption>
+            <header>false</header>
+            <name>x_640401_therapy_0_client_inquiry</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-28 19:05:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed17b7638363ca10092418f6feaad3b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_640401_therapy_0_client_inquiry</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Therapy Portal" source="x_640401_therapy_0">db89bd1783e74a10092418f6feaad3c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</sys_scope>
+            <sys_update_name>sys_ui_section_ed17b7638363ca10092418f6feaad3b2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-28 19:05:43</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

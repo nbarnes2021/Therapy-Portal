@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="4770efd383af4a10092418f6feaad332" sys_domain="global" table="x_640401_therapy_0_client_data" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>home_phone</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-27 22:48:30</sys_created_on>
+            <sys_id>8770efd383af4a10092418f6feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-27 22:48:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_phone</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-27 22:48:30</sys_created_on>
+            <sys_id>8b70efd383af4a10092418f6feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-27 22:48:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-27 22:48:30</sys_created_on>
+            <sys_id>8f70efd383af4a10092418f6feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-27 22:48:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cell_phone</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-27 22:48:30</sys_created_on>
+            <sys_id>8370efd383af4a10092418f6feaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-27 22:48:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_address</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-27 22:48:30</sys_created_on>
+            <sys_id>8770efd383af4a10092418f6feaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-27 22:48:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_640401_therapy_0_client_data</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-27 22:48:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4770efd383af4a10092418f6feaad332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_640401_therapy_0_client_data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Therapy Portal" source="x_640401_therapy_0">db89bd1783e74a10092418f6feaad3c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</sys_scope>
+            <sys_update_name>sys_ui_section_4770efd383af4a10092418f6feaad332</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-27 22:48:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</application>
+        <file_path/>
+        <instance_id>d85dad991b1ef55c39a54089bd4bcb25</instance_id>
+        <instance_name>dev202358</instance_name>
+        <name>sys_ui_section_4770efd383af4a10092418f6feaad332</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="4770efd383af4a10092418f6feaad332" sys_domain="global" table="x_640401_therapy_0_client_data" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>home_phone</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-27 22:48:30</sys_created_on><sys_id>8770efd383af4a10092418f6feaad380</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-27 22:48:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_phone</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-27 22:48:30</sys_created_on><sys_id>8b70efd383af4a10092418f6feaad380</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-27 22:48:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-27 22:48:30</sys_created_on><sys_id>8f70efd383af4a10092418f6feaad380</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-27 22:48:30</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cell_phone</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-27 22:48:30</sys_created_on><sys_id>8370efd383af4a10092418f6feaad381</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-27 22:48:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>email_address</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-27 22:48:30</sys_created_on><sys_id>8770efd383af4a10092418f6feaad381</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_640401_therapy_0_client_data" sys_domain="global" view="Default view">4770efd383af4a10092418f6feaad332</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-27 22:48:30</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_640401_therapy_0_client_data</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-27 22:48:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4770efd383af4a10092418f6feaad332</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_640401_therapy_0_client_data</sys_name><sys_overrides/><sys_package display_value="Therapy Portal" source="x_640401_therapy_0">db89bd1783e74a10092418f6feaad3c7</sys_package><sys_policy/><sys_scope display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</sys_scope><sys_update_name>sys_ui_section_4770efd383af4a10092418f6feaad332</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-27 22:48:29</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>118251630</payload_hash>
+        <record_name>Client Data</record_name>
+        <reverted_from/>
+        <source>aab10e1b83e74a10092418f6feaad369</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-27 22:48:30</sys_created_on>
+        <sys_id>0b70efd383af4a10092418f6feaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190f6619a7c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-27 22:48:30</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8f70efd373af4a1077b32bb17e0c3882</update_guid>
+        <update_guid_history>8f70efd373af4a1077b32bb17e0c3882:118251630</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-27 22:48:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1070cf40454c460682401579533b9e24</sys_id>
+        <sys_metadata>4770efd383af4a10092418f6feaad332</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Therapy Portal" source="x_640401_therapy_0">db89bd1783e74a10092418f6feaad3c7</sys_package>
+        <sys_parent display_value="Client Data">090edf1383af4a10092418f6feaad354</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</sys_scope>
+        <sys_scope_delete display_value="">60673d374fee43b4996ba81f9dc05d91</sys_scope_delete>
+        <sys_update_name>sys_ui_section_4770efd383af4a10092418f6feaad332</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_4770efd383af4a10092418f6feaad332">0b70efd383af4a10092418f6feaad383</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-27 22:48:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

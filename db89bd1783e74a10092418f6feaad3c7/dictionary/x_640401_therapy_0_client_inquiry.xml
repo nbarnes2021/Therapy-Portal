@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1517b7638363ca10092418f6feaad380" extends="x_640401_therapy_0_client_data" label="Client Inquiry" max_length="40" name="x_640401_therapy_0_client_inquiry" type="collection">
+        <element default="Web Search" label="Method of Discovery" max_length="40" name="method_of_discovery" type="string"/>
+        <element label="Purpose for Therapy" mandatory="true" max_length="300" name="purpose_for_therapy" type="string"/>
+    </element>
+</database>

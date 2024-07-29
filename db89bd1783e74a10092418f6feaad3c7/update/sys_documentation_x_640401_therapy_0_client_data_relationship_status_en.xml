@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="relationship_status" label="Relationship Status" language="en" table="x_640401_therapy_0_client_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>relationship_status</element>
+            <help/>
+            <hint/>
+            <label>Relationship Status</label>
+            <language>en</language>
+            <name>x_640401_therapy_0_client_data</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-27 22:43:29</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Relationship Status</sys_name>
+            <sys_package display_value="Therapy Portal" source="x_640401_therapy_0">db89bd1783e74a10092418f6feaad3c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Therapy Portal">db89bd1783e74a10092418f6feaad3c7</sys_scope>
+            <sys_update_name>sys_documentation_x_640401_therapy_0_client_data_relationship_status_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-27 22:43:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
